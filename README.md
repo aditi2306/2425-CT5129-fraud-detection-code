@@ -61,7 +61,7 @@ Generated data visualizations for different GANs:
 
 
 ### VAEGAN
-![VAEGAN Results](/vaegan.jpg)
+![VAEGAN Results](/vaegan.png)
 
 ### CTGAN
 ![CTGAN Results](/ctgan.jpg)
