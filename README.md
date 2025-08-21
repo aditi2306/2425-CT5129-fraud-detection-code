@@ -47,24 +47,24 @@ GAN Variants
 Generated data visualizations for different GANs:
 
 ### GAN
-![GAN Results](images/gan.jpg)
+![GAN Results](/gan.jpg)
 
 ### WGAN
-![WGAN Results](images/wgan.jpg)
+![WGAN Results](/wgan.jpg)
 
 
 ### WCGAN
-![WCGAN Results](images/wcgan.jpg)
+![WCGAN Results](/wcgan.jpg)
 
 ### CGAN
-![CGAN Results](images/cgan.jpg)
+![CGAN Results](/cgan.jpg)
 
 
 ### VAEGAN
-![VAEGAN Results](images/vaegan.jpg)
+![VAEGAN Results](/vaegan.jpg)
 
 ### CTGAN
-![CTGAN Results](images/ctgan.jpg)
+![CTGAN Results](/ctgan.jpg)
 
 Performance summary
 
